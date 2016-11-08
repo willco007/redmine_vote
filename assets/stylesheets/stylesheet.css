@@ -1,4 +1,4 @@
 .icon-vote-up { background-image: url(../images/arrow_090.png); text-decoration: none !important; }
 .icon-vote-down { background-image: url(../images/arrow_270.png); text-decoration: none !important; }
-span.votes-positive { color: green; font-weight: bold }
-span.votes-negative { color: red; font-weight: bold }
+span.votes-positive { color: #14c79c; font-weight: bold }
+span.votes-negative { color: #f35052; font-weight: bold }
